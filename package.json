@@ -1,0 +1,33 @@
+{
+  "name": "google-voice-api",
+  "version": "0.0.1",
+  "description": "A port of the GoogleVoice .NET API in Node.js",
+  "main": "GoogleVoice.js",
+  "scripts": {
+    "test": "echo \"Error: no tests available\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciolt/gvoice-api.git"
+  },
+  "keywords": [
+    "google",
+    "google-voice",
+    "nodejs",
+    "node",
+    "api"
+  ],
+  "author": "google-voice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciolt/gvoice-api/issues"
+  },
+  "homepage": "https://github.com/ciolt/gvoice-api#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.1",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}
